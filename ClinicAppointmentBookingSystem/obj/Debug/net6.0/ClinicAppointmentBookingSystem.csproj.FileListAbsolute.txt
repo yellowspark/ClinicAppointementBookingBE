@@ -1,0 +1,104 @@
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\appsettings.json
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\ClinicAppointmentBookingSystem.exe
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\ClinicAppointmentBookingSystem.deps.json
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\ClinicAppointmentBookingSystem.runtimeconfig.json
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\ClinicAppointmentBookingSystem.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\ClinicAppointmentBookingSystem.pdb
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\DnsClient.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Snappier.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.csproj.AssemblyReference.cache
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.AssemblyInfoInputs.cache
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.AssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\staticwebassets\msbuild.ClinicAppointmentBookingSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.ClinicAppointmentBookingSystem.props
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClinicAppointmentBookingSystem.props
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClinicAppointmentBookingSystem.props
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\scopedcss\bundle\ClinicAppointmentBookingSystem.styles.css
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.csproj.CopyComplete
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\refint\ClinicAppointmentBookingSystem.dll
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.pdb
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.genruntimeconfig.cache
+C:\Users\VishalWaman\source\repos\P\Clinic Appointment Booking System\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ref\ClinicAppointmentBookingSystem.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\appsettings.Development.json
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\appsettings.json
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\ClinicAppointmentBookingSystem.exe
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\ClinicAppointmentBookingSystem.deps.json
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\ClinicAppointmentBookingSystem.runtimeconfig.json
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\ClinicAppointmentBookingSystem.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\ClinicAppointmentBookingSystem.pdb
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\AutoMapper.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\DnsClient.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\SharpCompress.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Snappier.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\ZstdSharp.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.csproj.AssemblyReference.cache
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.AssemblyInfoInputs.cache
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.AssemblyInfo.cs
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.csproj.CoreCompileInputs.cache
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\staticwebassets\msbuild.ClinicAppointmentBookingSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.ClinicAppointmentBookingSystem.props
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClinicAppointmentBookingSystem.props
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClinicAppointmentBookingSystem.props
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\staticwebassets.build.json
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\staticwebassets.development.json
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\scopedcss\bundle\ClinicAppointmentBookingSystem.styles.css
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.csproj.CopyComplete
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\refint\ClinicAppointmentBookingSystem.dll
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.pdb
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ClinicAppointmentBookingSystem.genruntimeconfig.cache
+D:\Devish- IT\Final_App\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\ClinicAppointmentBookingSystem\obj\Debug\net6.0\ref\ClinicAppointmentBookingSystem.dll
